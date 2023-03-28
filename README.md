@@ -21,7 +21,8 @@
   - Diffus
   - Spéculaire
 - Soft shadow
-  
+
+![plot](./images/D9239267C9884C30B012C4A1401DB1A4.png)
 
 # Release note
 
