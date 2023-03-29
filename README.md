@@ -2,7 +2,13 @@
 
 # C# 3D Path Tracing Engine
 
-![plot](./images/D9239267C9884C30B012C4A1401DB1A4.png) ![plot](./images/front.png)
+<p align="center">
+  <img src="./images/D9239267C9884C30B012C4A1401DB1A4.png">
+</p>
+
+<p align="center">
+  <img src="./images/bandeau.png">
+</p>
 
 # Features
 
